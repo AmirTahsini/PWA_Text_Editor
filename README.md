@@ -22,7 +22,7 @@ See scripts in package.json file for details on how to install libraries used in
 
 ## Usage
 
-Access the application at the following url:
+Access the application at the following url: https://shrouded-shore-48105.herokuapp.com/
 
 ![J.A.T.E. homepage](./Screen%20Shot%202023-04-26%20at%203.09.12%20PM.png)
 
